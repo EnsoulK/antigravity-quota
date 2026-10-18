@@ -1,10 +1,10 @@
 {
-  "pushed_at_epoch": 1792300733,
-  "pushed_at_iso": "2026-10-18T05:18:53.879385+00:00",
-  "gemini_daily_pct": 99.0,
+  "pushed_at_epoch": 1792300798,
+  "pushed_at_iso": "2026-10-18T05:19:58.952750+00:00",
+  "gemini_daily_pct": 98.6,
   "gemini_daily_reset_epoch": 1792318320,
   "gemini_daily_reset_iso": "2026-10-18T10:12:00Z",
-  "weekly_pct": 80.1,
+  "weekly_pct": 79.9,
   "weekly_reset_epoch": 1792799898,
   "weekly_reset_iso": "2026-10-23T23:58:18Z"
 }
