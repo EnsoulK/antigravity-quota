@@ -1,6 +1,6 @@
 {
-  "versionCode": 2,
-  "versionName": "1.1.0",
-  "downloadUrl": "https://tmpfiles.org/dl/1793363511.e9a700d8458a99ae/wMAlHg8lK9aC/antigravityquota_v1.1.0.apk",
-  "changelog": "v1.1.0: 네온/민트/골드/모노 4대 테마 커스터마이징, 불투명/글래스/투명 3단 배경 투명도, 위젯 여백 제로 압축(꽉 찬 카드), 앱 내 자동 업데이트 연동"
+  "versionCode": 3,
+  "versionName": "1.1.1",
+  "downloadUrl": "https://tmpfiles.org/dl/1793364040.599af47f1389368e/wVAkHH8A3l3q/agyquota_v1.1.1.apk",
+  "changelog": "v1.1.1: 앱 명칭 AGY Quota 확정 및 One UI 최적화, 고해상도 네온 쿼터 엠블럼 아이콘 전면 교체(구형 잔재 완전 제거)"
 }
