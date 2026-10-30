@@ -1,6 +1,6 @@
 {
-  "versionCode": 3,
-  "versionName": "1.1.1",
-  "downloadUrl": "https://tmpfiles.org/dl/1793364040.599af47f1389368e/wVAkHH8A3l3q/agyquota_v1.1.1.apk",
-  "changelog": "v1.1.1: 앱 명칭 AGY Quota 확정 및 One UI 최적화, 고해상도 네온 쿼터 엠블럼 아이콘 전면 교체(구형 잔재 완전 제거)"
+  "versionCode": 4,
+  "versionName": "1.2.0",
+  "downloadUrl": "https://tmpfiles.org/dl/1793364555.21ad9ac6379df7b9/wgAiHn82SC3X/agyquota_v1.2.0.apk",
+  "changelog": "v1.2.0: 실시간 위젯 인터랙티브 미리보기(Live Preview) 기능 탑재 (4대 폼팩터 2x1/4x1/4x2/4x3 즉시 렌더링 지원)"
 }
