@@ -1,6 +1,6 @@
 {
-  "versionCode": 8,
-  "versionName": "1.2.4",
-  "downloadUrl": "https://github.com/EnsoulK/antigravity-quota/releases/download/v1.2.4/AGYQuota_v1.2.4.apk",
-  "changelog": "v1.2.4: 위젯 하단 여백 극소화(유효면적 86% 극대화, 게이지 21% 확대) 및 신규 세로 2단(상하 배치) 레이아웃 엔진 탑재"
+  "versionCode": 9,
+  "versionName": "1.2.5",
+  "downloadUrl": "https://github.com/EnsoulK/antigravity-quota/releases/download/v1.2.5/AGYQuota_v1.2.5.apk",
+  "changelog": "v1.2.5: 2x1 미니 및 4x1 슬림 바 위젯에도 세로 2단(상하 스택) 레이아웃 전면 확장 및 실시간 프리뷰 지원"
 }
