@@ -1,6 +1,6 @@
 {
-  "versionCode": 6,
-  "versionName": "1.2.2",
-  "downloadUrl": "https://github.com/EnsoulK/antigravity-quota/releases/download/v1.2.2/AGYQuota_v1.2.2.apk",
-  "changelog": "v1.2.2: 위젯 레이아웃 상단 쏠림/텍스트 겹침 완결(좌표 기하학 재설계, 여백 균형화), 다중 모델(Gemini, Claude & GPT, Argon, 듀얼) 선택 및 실시간 프리뷰 지원"
+  "versionCode": 7,
+  "versionName": "1.2.3",
+  "downloadUrl": "https://github.com/EnsoulK/antigravity-quota/releases/download/v1.2.3/AGYQuota_v1.2.3.apk",
+  "changelog": "v1.2.3: jsDelivr 2시간 CDN 캐시 락으로 인한 OFF 상태 결함 해결, GitHub Raw 실시간 무캐시 직접 연동으로 0초 LIVE 상태 정상화"
 }
