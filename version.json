@@ -1,6 +1,6 @@
 {
-  "versionCode": 11,
-  "versionName": "1.3.1",
-  "downloadUrl": "https://github.com/EnsoulK/antigravity-quota/releases/download/v1.3.1/AGYQuota_v1.3.1.apk",
-  "changelog": "v1.3.1: 4×1 세로 2단을 [라벨+시간 | 막대 | %] 인라인 배치로 개편 (글자 33% 확대, 막대 정렬 통일)"
+  "versionCode": 12,
+  "versionName": "1.3.2",
+  "downloadUrl": "https://github.com/EnsoulK/antigravity-quota/releases/download/v1.3.2/AGYQuota_v1.3.2.apk",
+  "changelog": "v1.3.2: 4×1 세로 2단 글자 27% 확대(시간 볼드), 퍼센트 49% 확대, 막대 44% 두껍게·길이 46%로 단축"
 }
