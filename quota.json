@@ -1,10 +1,45 @@
 {
-  "pushed_at_epoch": 1793406973,
-  "pushed_at_iso": "2026-10-31T00:36:13.056143+00:00",
+  "pushed_at_epoch": 1793407018,
+  "pushed_at_iso": "2026-10-31T00:36:58.272646+00:00",
   "gemini_daily_pct": 90.0,
   "gemini_daily_reset_epoch": 1793422970,
   "gemini_daily_reset_iso": "2026-10-31T05:02:50Z",
   "weekly_pct": 96.8,
   "weekly_reset_epoch": 1794009498,
-  "weekly_reset_iso": "2026-11-06T23:58:18Z"
+  "weekly_reset_iso": "2026-11-06T23:58:18Z",
+  "models": {
+    "gemini": {
+      "key": "gemini",
+      "display_name": "Gemini Models",
+      "description": "Models within this group: Gemini Flash, Gemini Pro",
+      "daily_pct": 90.0,
+      "daily_reset_epoch": 1793422970,
+      "daily_reset_iso": "2026-10-31T05:02:50Z",
+      "weekly_pct": 96.8,
+      "weekly_reset_epoch": 1794009498,
+      "weekly_reset_iso": "2026-11-06T23:58:18Z"
+    },
+    "claude_gpt": {
+      "key": "claude_gpt",
+      "display_name": "Claude and GPT models",
+      "description": "Models within this group: Claude Opus, Claude Sonnet, GPT-OSS",
+      "daily_pct": 100,
+      "daily_reset_epoch": 1793424911,
+      "daily_reset_iso": "2026-10-31T05:35:11Z",
+      "weekly_pct": 0.4,
+      "weekly_reset_epoch": 1793869894,
+      "weekly_reset_iso": "2026-11-05T09:11:34Z"
+    },
+    "argon": {
+      "key": "argon",
+      "display_name": "Gemini 4 Argon",
+      "description": "For paid Pro plans, Argon quota is separate. Higher Argon quota (included as part of the larger Gemini quota bucket) is available on Ultra plans.",
+      "daily_pct": 100.0,
+      "daily_reset_epoch": 0,
+      "daily_reset_iso": "",
+      "weekly_pct": 0,
+      "weekly_reset_epoch": 1793411704,
+      "weekly_reset_iso": "2026-10-31T01:55:04Z"
+    }
+  }
 }
