@@ -1,6 +1,6 @@
 {
-  "pushed_at_epoch": 1793443150,
-  "pushed_at_iso": "2026-10-31T10:39:10.547908+00:00",
+  "pushed_at_epoch": 1793443213,
+  "pushed_at_iso": "2026-10-31T10:40:13.499040+00:00",
   "gemini_daily_pct": 99.0,
   "gemini_daily_reset_epoch": 1793459517,
   "gemini_daily_reset_iso": "2026-10-31T15:11:57Z",
@@ -24,8 +24,8 @@
       "display_name": "Claude and GPT models",
       "description": "Models within this group: Claude Opus, Claude Sonnet, GPT-OSS",
       "daily_pct": 100,
-      "daily_reset_epoch": 1793460835,
-      "daily_reset_iso": "2026-10-31T15:33:55Z",
+      "daily_reset_epoch": 1793461152,
+      "daily_reset_iso": "2026-10-31T15:39:12Z",
       "weekly_pct": 0.4,
       "weekly_reset_epoch": 1793869894,
       "weekly_reset_iso": "2026-11-05T09:11:34Z"
