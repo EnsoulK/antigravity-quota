@@ -1,10 +1,10 @@
 {
-  "pushed_at_epoch": 1793638067,
-  "pushed_at_iso": "2026-11-02T16:47:47.781432+00:00",
-  "gemini_daily_pct": 95.2,
+  "pushed_at_epoch": 1793638372,
+  "pushed_at_iso": "2026-11-02T16:52:52.302290+00:00",
+  "gemini_daily_pct": 94.3,
   "gemini_daily_reset_epoch": 1793652060,
   "gemini_daily_reset_iso": "2026-11-02T20:41:00Z",
-  "weekly_pct": 79.6,
+  "weekly_pct": 79.5,
   "weekly_reset_epoch": 1794009498,
   "weekly_reset_iso": "2026-11-06T23:58:18Z",
   "models": {
@@ -12,10 +12,10 @@
       "key": "gemini",
       "display_name": "Gemini Models",
       "description": "Models within this group: Gemini Flash, Gemini Pro",
-      "daily_pct": 95.2,
+      "daily_pct": 94.3,
       "daily_reset_epoch": 1793652060,
       "daily_reset_iso": "2026-11-02T20:41:00Z",
-      "weekly_pct": 79.6,
+      "weekly_pct": 79.5,
       "weekly_reset_epoch": 1794009498,
       "weekly_reset_iso": "2026-11-06T23:58:18Z"
     },
@@ -24,8 +24,8 @@
       "display_name": "Claude and GPT models",
       "description": "Models within this group: Claude Opus, Claude Sonnet, GPT-OSS",
       "daily_pct": 100,
-      "daily_reset_epoch": 1793656010,
-      "daily_reset_iso": "2026-11-02T21:46:50Z",
+      "daily_reset_epoch": 1793656314,
+      "daily_reset_iso": "2026-11-02T21:51:54Z",
       "weekly_pct": 0.4,
       "weekly_reset_epoch": 1793869894,
       "weekly_reset_iso": "2026-11-05T09:11:34Z"
