@@ -1,9 +1,9 @@
 {
-  "pushed_at_epoch": 1793711600,
-  "pushed_at_iso": "2026-11-03T13:13:20.743729+00:00",
+  "pushed_at_epoch": 1793711911,
+  "pushed_at_iso": "2026-11-03T13:18:31.104291+00:00",
   "gemini_daily_pct": 100,
-  "gemini_daily_reset_epoch": 1793729541,
-  "gemini_daily_reset_iso": "2026-11-03T18:12:21Z",
+  "gemini_daily_reset_epoch": 1793729851,
+  "gemini_daily_reset_iso": "2026-11-03T18:17:31Z",
   "weekly_pct": 65.7,
   "weekly_reset_epoch": 1794009498,
   "weekly_reset_iso": "2026-11-06T23:58:18Z",
@@ -13,8 +13,8 @@
       "display_name": "Gemini Models",
       "description": "Models within this group: Gemini Flash, Gemini Pro",
       "daily_pct": 100,
-      "daily_reset_epoch": 1793729541,
-      "daily_reset_iso": "2026-11-03T18:12:21Z",
+      "daily_reset_epoch": 1793729851,
+      "daily_reset_iso": "2026-11-03T18:17:31Z",
       "weekly_pct": 65.7,
       "weekly_reset_epoch": 1794009498,
       "weekly_reset_iso": "2026-11-06T23:58:18Z"
@@ -24,8 +24,8 @@
       "display_name": "Claude and GPT models",
       "description": "Models within this group: Claude Opus, Claude Sonnet, GPT-OSS",
       "daily_pct": 100,
-      "daily_reset_epoch": 1793729541,
-      "daily_reset_iso": "2026-11-03T18:12:21Z",
+      "daily_reset_epoch": 1793729851,
+      "daily_reset_iso": "2026-11-03T18:17:31Z",
       "weekly_pct": 0.4,
       "weekly_reset_epoch": 1793869894,
       "weekly_reset_iso": "2026-11-05T09:11:34Z"
@@ -45,12 +45,12 @@
       "key": "claude_code",
       "display_name": "Claude Code",
       "description": "Claude 구독 (5H + 주간)",
-      "daily_pct": 88.0,
-      "daily_reset_epoch": 1793724599,
-      "daily_reset_iso": "2026-11-03T16:49:59.688278+00:00",
+      "daily_pct": 87.0,
+      "daily_reset_epoch": 1793724600,
+      "daily_reset_iso": "2026-11-03T16:50:00.067049+00:00",
       "weekly_pct": 97.0,
-      "weekly_reset_epoch": 1794038399,
-      "weekly_reset_iso": "2026-11-07T07:59:59.688297+00:00"
+      "weekly_reset_epoch": 1794038400,
+      "weekly_reset_iso": "2026-11-07T08:00:00.067070+00:00"
     }
   }
 }
