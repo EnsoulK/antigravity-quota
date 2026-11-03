@@ -1,6 +1,6 @@
 {
-  "versionCode": 17,
-  "versionName": "1.7.0",
-  "downloadUrl": "https://github.com/EnsoulK/antigravity-quota/releases/download/v1.7.0/AIQuota_v1.7.0.apk",
-  "changelog": "v1.7.0: 위젯 레이아웃에 좌우 분할 추가 (통합: Claude | Antigravity, 단일: 5시간 | 주간)"
+  "versionCode": 18,
+  "versionName": "1.7.1",
+  "downloadUrl": "https://github.com/EnsoulK/antigravity-quota/releases/download/v1.7.1/AIQuota_v1.7.1.apk",
+  "changelog": "v1.7.1: 4×1 좌우 분할 = 왼쪽 Claude / 오른쪽 Antigravity, 각 칸에 5시간·주간 표시 (4×1 기본 레이아웃)"
 }
