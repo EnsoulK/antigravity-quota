@@ -1,6 +1,6 @@
 {
-  "versionCode": 14,
-  "versionName": "1.5.0",
-  "downloadUrl": "https://github.com/EnsoulK/antigravity-quota/releases/download/v1.5.0/AGYQuota_v1.5.0.apk",
-  "changelog": "v1.5.0: 앱 화면 전면 개편 - 모든 모델 사용량을 한 화면에, 위젯별 개별 설정(위젯 길게 누르기 → 설정), 라이트/다크 모드 자동 전환, 위젯 디자인 개편"
+  "versionCode": 15,
+  "versionName": "1.5.1",
+  "downloadUrl": "https://github.com/EnsoulK/antigravity-quota/releases/download/v1.5.1/AGYQuota_v1.5.1.apk",
+  "changelog": "v1.5.1: Claude와 Antigravity 기본 한도만 표시, 4×1 위젯 글자 찌그러짐·줄 간격 수정(실제 위젯 칸 크기에 맞춰 렌더링)"
 }
