@@ -1,6 +1,6 @@
 {
-  "pushed_at_epoch": 1793888732,
-  "pushed_at_iso": "2026-11-05T14:25:32.306279+00:00",
+  "pushed_at_epoch": 1793889037,
+  "pushed_at_iso": "2026-11-05T14:30:37.348211+00:00",
   "gemini_daily_pct": 95.4,
   "gemini_daily_reset_epoch": 1793896136,
   "gemini_daily_reset_iso": "2026-11-05T16:28:56Z",
@@ -9,7 +9,7 @@
   "weekly_reset_iso": "2026-11-06T23:58:18Z",
   "models": {
     "gemini": {
-      "updated_epoch": 1793888731,
+      "updated_epoch": 1793889036,
       "key": "gemini",
       "display_name": "Gemini Models",
       "description": "Models within this group: Gemini Flash, Gemini Pro",
@@ -22,15 +22,15 @@
     },
     "claude_code": {
       "key": "claude_code",
-      "updated_epoch": 1793888732,
+      "updated_epoch": 1793889037,
       "display_name": "Claude Code",
       "description": "Claude (5H + 주간)",
-      "daily_pct": 86.0,
+      "daily_pct": 85.0,
       "daily_reset_epoch": 1793900399,
-      "daily_reset_iso": "2026-11-05T17:39:59.930056+00:00",
+      "daily_reset_iso": "2026-11-05T17:39:59.914467+00:00",
       "weekly_pct": 39.0,
       "weekly_reset_epoch": 1794038399,
-      "weekly_reset_iso": "2026-11-07T07:59:59.930076+00:00"
+      "weekly_reset_iso": "2026-11-07T07:59:59.914488+00:00"
     }
   }
 }
