@@ -1,21 +1,21 @@
 {
-  "pushed_at_epoch": 1794330344,
-  "pushed_at_iso": "2026-11-10T17:05:44.292293+00:00",
+  "pushed_at_epoch": 1794330597,
+  "pushed_at_iso": "2026-11-10T17:09:57.839863+00:00",
   "gemini_daily_pct": 100,
-  "gemini_daily_reset_epoch": 1794348282,
-  "gemini_daily_reset_iso": "2026-11-10T22:04:42Z",
+  "gemini_daily_reset_epoch": 1794348600,
+  "gemini_daily_reset_iso": "2026-11-10T22:10:00Z",
   "weekly_pct": 58.4,
   "weekly_reset_epoch": 1794615061,
   "weekly_reset_iso": "2026-11-14T00:11:01Z",
   "models": {
     "gemini": {
-      "updated_epoch": 1794330279,
+      "updated_epoch": 1794330597,
       "key": "gemini",
       "display_name": "Gemini Models",
       "description": "Models within this group: Gemini Flash, Gemini Pro",
       "daily_pct": 100,
-      "daily_reset_epoch": 1794348282,
-      "daily_reset_iso": "2026-11-10T22:04:42Z",
+      "daily_reset_epoch": 1794348600,
+      "daily_reset_iso": "2026-11-10T22:10:00Z",
       "weekly_pct": 58.4,
       "weekly_reset_epoch": 1794615061,
       "weekly_reset_iso": "2026-11-14T00:11:01Z"
