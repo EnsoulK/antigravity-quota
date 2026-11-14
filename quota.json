@@ -1,21 +1,21 @@
 {
-  "pushed_at_epoch": 1794636127,
-  "pushed_at_iso": "2026-11-14T06:02:07.138614+00:00",
+  "pushed_at_epoch": 1794636322,
+  "pushed_at_iso": "2026-11-14T06:05:22.134869+00:00",
   "gemini_daily_pct": 100,
-  "gemini_daily_reset_epoch": 1794654000,
-  "gemini_daily_reset_iso": "2026-11-14T11:00:00Z",
+  "gemini_daily_reset_epoch": 1794654322,
+  "gemini_daily_reset_iso": "2026-11-14T11:05:22Z",
   "weekly_pct": 99.4,
   "weekly_reset_epoch": 1795218594,
   "weekly_reset_iso": "2026-11-20T23:49:54Z",
   "models": {
     "gemini": {
-      "updated_epoch": 1794636000,
+      "updated_epoch": 1794636322,
       "key": "gemini",
       "display_name": "Gemini Models",
       "description": "Models within this group: Gemini 4 Hydrogen, Gemini 3.8 Flash",
       "daily_pct": 100,
-      "daily_reset_epoch": 1794654000,
-      "daily_reset_iso": "2026-11-14T11:00:00Z",
+      "daily_reset_epoch": 1794654322,
+      "daily_reset_iso": "2026-11-14T11:05:22Z",
       "weekly_pct": 99.4,
       "weekly_reset_epoch": 1795218594,
       "weekly_reset_iso": "2026-11-20T23:49:54Z"
