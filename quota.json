@@ -1,36 +1,36 @@
 {
-  "pushed_at_epoch": 1794895811,
-  "pushed_at_iso": "2026-11-17T06:10:11.443882+00:00",
-  "gemini_daily_pct": 98.9,
+  "pushed_at_epoch": 1794896123,
+  "pushed_at_iso": "2026-11-17T06:15:23.058723+00:00",
+  "gemini_daily_pct": 98.5,
   "gemini_daily_reset_epoch": 1794911421,
   "gemini_daily_reset_iso": "2026-11-17T10:30:21Z",
-  "weekly_pct": 71.8,
+  "weekly_pct": 71.7,
   "weekly_reset_epoch": 1795218594,
   "weekly_reset_iso": "2026-11-20T23:49:54Z",
   "models": {
     "gemini": {
-      "updated_epoch": 1794895811,
+      "updated_epoch": 1794896123,
       "key": "gemini",
       "display_name": "Gemini Models",
       "description": "Models within this group: Gemini 4 Hydrogen, Gemini 3.8 Flash",
-      "daily_pct": 98.9,
+      "daily_pct": 98.5,
       "daily_reset_epoch": 1794911421,
       "daily_reset_iso": "2026-11-17T10:30:21Z",
-      "weekly_pct": 71.8,
+      "weekly_pct": 71.7,
       "weekly_reset_epoch": 1795218594,
       "weekly_reset_iso": "2026-11-20T23:49:54Z"
     },
     "claude_code": {
       "key": "claude_code",
-      "updated_epoch": 1794895620,
+      "updated_epoch": 1794895935,
       "display_name": "Claude Code",
       "description": "Claude (5H + 주간)",
       "daily_pct": 57.0,
       "daily_reset_epoch": 1794897599,
-      "daily_reset_iso": "2026-11-17T06:39:59.904193+00:00",
+      "daily_reset_iso": "2026-11-17T06:39:59.752948+00:00",
       "weekly_pct": 7.0,
       "weekly_reset_epoch": 1795247999,
-      "weekly_reset_iso": "2026-11-21T07:59:59.904214+00:00"
+      "weekly_reset_iso": "2026-11-21T07:59:59.752969+00:00"
     }
   }
 }
