@@ -1,6 +1,6 @@
 {
-  "pushed_at_epoch": 1795009811,
-  "pushed_at_iso": "2026-11-18T13:50:11.142752+00:00",
+  "pushed_at_epoch": 1795010169,
+  "pushed_at_iso": "2026-11-18T13:56:09.673173+00:00",
   "gemini_daily_pct": 94.5,
   "gemini_daily_reset_epoch": 1795023260,
   "gemini_daily_reset_iso": "2026-11-18T17:34:20Z",
@@ -22,15 +22,15 @@
     },
     "claude_code": {
       "key": "claude_code",
-      "updated_epoch": 1795009811,
+      "updated_epoch": 1795010169,
       "display_name": "Claude Code",
       "description": "Claude (5H + 주간)",
-      "daily_pct": 91.0,
+      "daily_pct": 90.0,
       "daily_reset_epoch": 1795024200,
-      "daily_reset_iso": "2026-11-18T17:50:00.069588+00:00",
+      "daily_reset_iso": "2026-11-18T17:50:00.241415+00:00",
       "weekly_pct": 86.0,
       "weekly_reset_epoch": 1795248000,
-      "weekly_reset_iso": "2026-11-21T08:00:00.069608+00:00"
+      "weekly_reset_iso": "2026-11-21T08:00:00.241437+00:00"
     }
   }
 }
