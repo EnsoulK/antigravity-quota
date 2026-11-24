@@ -1,21 +1,21 @@
 {
-  "pushed_at_epoch": 1795488223,
-  "pushed_at_iso": "2026-11-24T02:43:43.757391+00:00",
+  "pushed_at_epoch": 1795488414,
+  "pushed_at_iso": "2026-11-24T02:46:54.608159+00:00",
   "gemini_daily_pct": 100,
-  "gemini_daily_reset_epoch": 1795506097,
-  "gemini_daily_reset_iso": "2026-11-24T07:41:37Z",
+  "gemini_daily_reset_epoch": 1795506414,
+  "gemini_daily_reset_iso": "2026-11-24T07:46:54Z",
   "weekly_pct": 92.8,
   "weekly_reset_epoch": 1796071228,
   "weekly_reset_iso": "2026-11-30T20:40:28Z",
   "models": {
     "gemini": {
-      "updated_epoch": 1795488099,
+      "updated_epoch": 1795488414,
       "key": "gemini",
       "display_name": "Gemini Models",
       "description": "Models within this group: Gemini 4 Neon, Gemini 4 Carbon, Gemini 4 Argon, Gemini 4 Hydrogen, Orchestrator (Neon), Orchestrator (Carbon), Orchestrator (Argon), Gemini 3.8 Flash",
       "daily_pct": 100,
-      "daily_reset_epoch": 1795506097,
-      "daily_reset_iso": "2026-11-24T07:41:37Z",
+      "daily_reset_epoch": 1795506414,
+      "daily_reset_iso": "2026-11-24T07:46:54Z",
       "weekly_pct": 92.8,
       "weekly_reset_epoch": 1796071228,
       "weekly_reset_iso": "2026-11-30T20:40:28Z"
